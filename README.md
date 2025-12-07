@@ -5,7 +5,7 @@
 ## 👋 Hey! I'm Ibrahim.
 Welcome to my GitHub profile! I like building things related to **games**, **systems**, and **AI**. This page highlights the projects I'm exploring as I grow as a developer.
 
-## Currently Exploring...
+## 🔍 Currently Exploring...
 - Game development
 - Low-level and systems programming (C/C++, emulators, graphics programming)
 - Applied AI
