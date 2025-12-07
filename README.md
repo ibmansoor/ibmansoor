@@ -2,15 +2,15 @@
   <img src="Headers/black.gif" alt="ibmansoor banner" width="100%" />
 </p>
 
-## Hello!! 👋👋
-My name is Ibrahim. Welcome to my GitHub profile! I like building things related to **games**, **systems**, and **AI**. This page highlights the projects I'm exploring as I grow as a developer.
+## 👋 Hey! I'm Ibrahim.
+Welcome to my GitHub profile! I like building things related to **games**, **systems**, and **AI**. This page highlights the projects I'm exploring as I grow as a developer.
 
 ## Currently Exploring...
 - Game development
 - Low-level and systems programming (C/C++, emulators, graphics programming)
 - Applied AI
 
-## Tools and Stuff:
+## 🛠️ Technologies & Tools
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png" alt="Neovim" title="Neovim"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
@@ -21,7 +21,7 @@ My name is Ibrahim. Welcome to my GitHub profile! I like building things related
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png" alt="Godot" title="Godot"/></code>
 </div>
 
-## Other:
+## 🔗 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ibmansoor/)
 [![sim8905 Discord](https://img.shields.io/badge/sim8905-5865F2?style=for-the-badge&logo=Discord&logoColor=ffffff)](https://discord.com/users/YOUR_USER_ID)
 
