@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Animations/github_header_black.gif" alt="ibmansoor banner" width="100%" />
+  <img src="Animations/github_header_clear.gif" alt="ibmansoor banner" width="100%" />
 </p>
 
 <!--
